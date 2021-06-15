@@ -47,7 +47,7 @@ async def cb_handler(client, query):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("MASTER⚓️", url="https://t.me/smile_killer_010"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/SMILE-KILLER10/Fc-TOVINO")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
